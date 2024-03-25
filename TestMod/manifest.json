@@ -1,0 +1,10 @@
+{
+  "Name": "SMAPI tutorial mod",
+  "Author": "chompou",
+  "Version": "1.0.0",
+  "Description": "Just the tutorial mod",
+  "UniqueID": "chompou.tutorialMod",
+  "EntryDll": "TestMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
